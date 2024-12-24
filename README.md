@@ -33,6 +33,8 @@ Google hesabınızdan uygulama şifresi almanız ve bu şifreyi projede kullanma
 
 **send_email** fonksiyonunda konu başlığı, içerik, gönderen, şifre ve alıcı bilgileri ile e-posta göndermesini sağlıyorum.
 
+_Ben burada Gmail adresleri kullanmaya çalıştım. Diğer mail adresleri de kullanılabilir mi bir bilgim yok. Ancak yahoo ve ya outlook örneklerine denk geldim._
+
 ## 4 - Calculate RSI:
 
 RSI açılımı Relative Strength Index olan ve Türkçeye “Relatif Güç Endeksi” olarak çevrilen bir terimdir. Relatif güç endeksi bir varlığın son fiyat değişikliklerinin hızını ve büyüklüğünü ölçer. 
